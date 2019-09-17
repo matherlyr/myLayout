@@ -6,4 +6,4 @@ body {
 .reading-box{background-color:rgb(220, 208, 255);}
 .prep-box{background-color:rgb(255,255,158);}
 .lab-box{background-color:#B7E9F7;}
-.day-box CURRENT{border: 1px solid red;}
+.header {border: 1px solid rgb(0,0,128;}
