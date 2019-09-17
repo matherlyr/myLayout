@@ -6,7 +6,7 @@ body {
 .reading-box{background-color:rgb(220, 208, 255);}
 .prep-box{background-color:rgb(255,255,158);}
 .lab-box{background-color:#B7E9F7;}
-.assignment_link{background-color:#f7C074;}
+.grading-box{background-color:#f7C074;}
 .header {border: 1px solid rgb(0,0,128);
   margin-bottom:10px;}
 div{border: 1px solid rgb(0,0,128);
