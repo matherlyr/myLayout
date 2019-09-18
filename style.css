@@ -22,7 +22,7 @@ border-radius: 25px;
 .header {border: 1px solid rgb(0,0,128);
   margin-bottom:10px;}
 div{border: 1px solid rgb(0,0,128);
-  margin-bottom:10px;
-  padding:10px;}
+  border-radius: 25px;
+  padding: 20px;}
 a:hover {background-color: rgb(240, 108, 108);}
 img.person_image{width:100px;height:150px;}
