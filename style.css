@@ -13,7 +13,7 @@ border-radius: 25px;
   padding: 20px;}
 .grading-box{background-color:#f7C074;border-radius: 25px;
   padding: 20px;}
-.day-box COMPLETED{background-color:rgb(221,221,221);border-radius: 25px;
+.day-box.COMPLETED{background-color:rgb(221,221,221);border-radius: 25px;
   padding: 20px;}
 .header {border: 1px solid rgb(0,0,128);
   margin-bottom:10px;}
