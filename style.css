@@ -13,3 +13,4 @@ body {
 div{border: 1px solid rgb(0,0,128);
   margin-bottom:10px;
   padding:10px;}
+a:hover {background-color: rgb(240, 108, 108);}
