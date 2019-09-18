@@ -2,16 +2,35 @@ body {
   background-color:rgb(255,186,210);
   color:rgb(0,0,128);
 }
-.day{background-color:rgb(148,255,185);}
-.reading-box{background-color:rgb(220, 208, 255);}
-.prep-box{background-color:rgb(255,255,158);}
-.lab-box{background-color:#B7E9F7;}
-.grading-box{background-color:#f7C074;}
-.day-box COMPLETED{background-color:rgb(221,221,221);}
+.day{background-color:rgb(148,255,185);
+border-radius: 25px;
+  padding: 20px;
+  width: 200px;
+  height: 150px;}
+.reading-box{background-color:rgb(220, 208, 255);border-radius: 25px;
+  padding: 20px;
+  width: 200px;
+  height: 150px;}
+.prep-box{background-color:rgb(255,255,158);border-radius: 25px;
+  padding: 20px;
+  width: 200px;
+  height: 150px;}
+.lab-box{background-color:#B7E9F7;border-radius: 25px;
+  padding: 20px;
+  width: 200px;
+  height: 150px;}
+.grading-box{background-color:#f7C074;border-radius: 25px;
+  padding: 20px;
+  width: 200px;
+  height: 150px;}
+.day-box COMPLETED{background-color:rgb(221,221,221);border-radius: 25px;
+  padding: 20px;
+  width: 200px;
+  height: 150px;}
 .header {border: 1px solid rgb(0,0,128);
   margin-bottom:10px;}
 div{border: 1px solid rgb(0,0,128);
   margin-bottom:10px;
   padding:10px;}
 a:hover {background-color: rgb(240, 108, 108);}
-img.person_image{width:100px;height:200px}
+img.person_image{width:100px;height:150px;}
