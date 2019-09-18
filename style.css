@@ -7,6 +7,7 @@ body {
 .prep-box{background-color:rgb(255,255,158);}
 .lab-box{background-color:#B7E9F7;}
 .grading-box{background-color:#f7C074;}
+.day-box COMPLETED{background-color:rgb(221,221,221);}
 .header {border: 1px solid rgb(0,0,128);
   margin-bottom:10px;}
 div{border: 1px solid rgb(0,0,128);
