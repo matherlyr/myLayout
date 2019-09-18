@@ -15,6 +15,10 @@ border-radius: 25px;
   padding: 20px;}
 .day-box.COMPLETED{background-color:rgb(221,221,221);border-radius: 25px;
   padding: 20px;}
+.day-box.CURRENT{background-color:rgb(212, 106, 141);border-radius: 25px;
+  padding: 20px;}
+.day-box.PREP{background-color:rgb(186, 71, 109);border-radius: 25px;
+  padding: 20px;}
 .header {border: 1px solid rgb(0,0,128);
   margin-bottom:10px;}
 div{border: 1px solid rgb(0,0,128);
