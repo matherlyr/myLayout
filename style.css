@@ -11,4 +11,5 @@ body {
 .header {border: 1px solid rgb(0,0,128);
   margin-bottom:10px;}
 div{border: 1px solid rgb(0,0,128);
-  margin-bottom:10px;}
+  margin-bottom:10px;
+  padding:10px;}
