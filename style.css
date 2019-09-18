@@ -20,6 +20,4 @@ div{border: 1px solid rgb(0,0,128);
   padding: 20px;}
 a:hover {background-color: rgb(240, 108, 108);}
 img.person_image{width:100px;height:150px;}
-div:empty {
-   display: none;
-}
+div:blank {display: none;}
