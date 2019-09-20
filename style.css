@@ -9,16 +9,17 @@ border-radius: 25px;
 .prep-box{background-color:rgb(255,255,158);}
 .lab-box{background-color:#B7E9F7;}
 .grading-box{background-color:#f7C074;;}
-.day-box.COMPLETED{background-color:rgb(221,221,221);;}
-.day-box.CURRENT{background-color:rgb(212, 106, 141);}
-.day-box.PREP{background-color:rgb(186, 71, 109);}
+.day-box.COMPLETED{background-image:url(Glazed-Donut.jpg);}
+.day-box.CURRENT{background-image:url(White-Donut.jpg);}
+.day-box.PREP{background-image:url(Chocolate-Donut.jpg);}
 .header {border: 1px solid rgb(0,0,128);
   margin-bottom:10px;}
 .nav{text-align: center;}
-div{border: 1px solid rgb(0,0,128);
+div{border: 1px;
   border-radius: 25px;
   padding: 20px;}
 a:hover {background-color: rgb(240, 108, 108);}
 img.person_image{width:100px;height:150px;}
 div:blank {display: none;}
 .special{border-width:none;}
+#nameSound13{background-image:url(audio.jpg);}
