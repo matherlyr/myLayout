@@ -15,6 +15,7 @@ border-radius: 25px;
 .header{background-image: url(strawberry-donut.jpg);}
 .nav{text-align: center;
 background-color:rgb(255,186,210);}
+.username{background-color:rgb(255,186,210);}
 div{border: 1px solid rgb(0,0,128);
   border-radius: 25px;
   padding: 10px;}
