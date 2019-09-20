@@ -12,10 +12,8 @@ border-radius: 25px;
 .day-box.COMPLETED{background-image:url(Glazed-Donut.jpg);}
 .day-box.CURRENT{background-image:url(White-Donut.jpg);}
 .day-box.PREP{background-image:url(Chocolate-Donut.jpg);}
-.header {border: 1px solid rgb(0,0,128);
-  margin-bottom:10px;}
 .nav{text-align: center;}
-div{border: 1px;
+div{border: 1px solid rgb(0,0,128);
   border-radius: 25px;
   padding: 20px;}
 a:hover {background-color: rgb(240, 108, 108);}
