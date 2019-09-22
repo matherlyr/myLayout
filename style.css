@@ -28,7 +28,7 @@ div:blank {display: none;}
 svg{ transform: rotate(90deg);
     margin: auto;
     position:relative
-    top: 100px}
+    right: 100px}
 table, th, td {
   border: 1px solid rgb(0,0,128);
 }
