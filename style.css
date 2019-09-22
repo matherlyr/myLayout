@@ -6,11 +6,11 @@ body {
 .day{background-color:rgb(148,255,185);
 border-radius: 25px;
   padding: 20px;}
-.reading-box{background-color:rgb(220, 208, 255);}
-.prep-box{background-color:rgb(255,255,158);}
-.lab-box{background-color:#B7E9F7;}
-.grading-box{background-color:#f7C074;;}
-.day-box{border-color: rgb(0,0,128);}
+.reading-box{background-color:rgb(220, 208, 255);width:200px; float:left;}
+.prep-box{background-color:rgb(255,255,158);width:200px; float:left;}
+.lab-box{background-color:#B7E9F7;width:200px; float:left;}
+.grading-box{background-color:#f7C074;width:200px; float:left;}
+.day-box{border-color: rgb(0,0,128);width:200px; float:left;}
 .day-box.COMPLETED{background-image:url(Glazed-Donut.jpg);}
 .day-box.CURRENT{background-image:url(White-Donut.jpg);}
 .day-box.PREP{background-image:url(Chocolate-Donut.jpg);}
