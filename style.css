@@ -13,14 +13,9 @@ border-radius: 25px;
 .day-box.COMPLETED{background-image:url(Glazed-Donut.jpg);}
 .day-box.CURRENT{background-image:url(White-Donut.jpg);}
 .day-box.PREP{background-image:url(Chocolate-Donut.jpg);}
-.header{background-image: url(strawberry-donut.jpg);}
+.header{background-image: url(strawberry-donut.jpg);text-align:center;}
 .nav{text-align: center;
 background-color:rgb(255,186,210);}
-a[href*="wdd.centre.edu"]{
-  border-radius: 5px;
-  background: #cf709c;
-  padding: 3px;
-}
 h1{text-align: center;}
 .username{background-color:rgb(255,186,210);}
 div{border-radius: 25px;
