@@ -29,4 +29,4 @@ div:blank {display: none;}
 .special{border-width:none;}
 #nameSound13{background-image:url(audio.jpg);}
 table {border-collapse: collapse;}
-table, th, td {border: 1px solid rgb(0,0,128);}
+table, th, td {border: 1px solid rgb(0,0,128); background-color:#b5145f;}
