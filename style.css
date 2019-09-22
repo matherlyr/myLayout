@@ -10,7 +10,7 @@ border-radius: 25px;
 .prep-box{background-color:rgb(255,255,158);width:240px; float:left;}
 .lab-box{background-color:#B7E9F7;width:240px; float:left;}
 .grading-box{background-color:#f7C074;width:240px; float:left;}
-.day-box{border-color: rgb(0,0,128);width:240px; float:left;}
+.day-box{border-color: rgb(0,0,128);}
 .day-box.COMPLETED{background-image:url(Glazed-Donut.jpg);}
 .day-box.CURRENT{background-image:url(White-Donut.jpg);}
 .day-box.PREP{background-image:url(Chocolate-Donut.jpg);}
