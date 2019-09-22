@@ -26,7 +26,5 @@ img.person_image{width:100px;height:150px;}
 div:blank {display: none;}
 .special{border-width:none;}
 #nameSound13{background-image:url(audio.jpg);}
-svg{background-color:#b5145f;}
-table, th, td {background-color: 
-  border: 1px solid rgb(0,0,128);
-}
+table {border-collapse: collapse;}
+table, th, td {border: 1px solid rgb(0,0,128);}
