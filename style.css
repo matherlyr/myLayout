@@ -1,6 +1,7 @@
 body {
   background-color:rgb(255,186,210);
   color:rgb(0,0,128);
+  font-family:"Comic Sans MS", cursive, sans-serif;
 }
 .day{background-color:rgb(148,255,185);
 border-radius: 25px;
@@ -29,6 +30,6 @@ svg{ transform: rotate(90deg);
     margin: auto;
     position:relative
     right: 100px}
-table, th, td {
+table, th, td {background-color: 
   border: 1px solid rgb(0,0,128);
 }
