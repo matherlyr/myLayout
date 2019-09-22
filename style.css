@@ -3,11 +3,11 @@ body {
   color:rgb(0,0,128);
   font-family:"Comic Sans MS", cursive, sans-serif;
 }
-.day{background-color:rgb(148,255,185);width:240px; height:150px; float:left;}
-.reading-box{background-color:rgb(220, 208, 255);width:240px; height:150px; float:left;}
-.prep-box{background-color:rgb(255,255,158);width:240px; height:150px; float:left;}
-.lab-box{background-color:#B7E9F7;width:240px; height:150px; float:left;}
-.grading-box{background-color:#f7C074;width:240px; height:150px; float:left;}
+.day{background-color:rgb(148,255,185);width:240px; height:150px; overflow:auto; float:left;}
+.reading-box{background-color:rgb(220, 208, 255);width:240px; height:150px; overflow:auto; float:left;}
+.prep-box{background-color:rgb(255,255,158);width:240px; height:150px; overflow:auto; float:left;}
+.lab-box{background-color:#B7E9F7;width:240px; height:150px; overflow:auto; float:left;}
+.grading-box{background-color:#f7C074;width:240px; height:150px; overflow:auto; float:left;}
 .day-box{border-color: rgb(0,0,128);}
 .day-box.COMPLETED{background-image:url(Glazed-Donut.jpg);height:300px; border: 3px solid rgb(0,0,128);}
 .day-box.CURRENT{background-image:url(White-Donut.jpg);height:300px;}
