@@ -3,11 +3,11 @@ body {
   color:rgb(0,0,128);
   font-family:"Comic Sans MS", cursive, sans-serif;
 }
-.day{background-color:rgb(148,255,185);width:240px; height:150px; overflow:auto; float:left; padding:5px;}
-.reading-box{background-color:rgb(220, 208, 255);width:240px; height:150px; overflow:auto; float:left;padding:5px;}
-.prep-box{background-color:rgb(255,255,158);width:240px; height:150px; overflow:auto; float:left;padding:5px;}
-.lab-box{background-color:#B7E9F7;width:240px; height:150px; overflow:auto; float:left;padding:5px;}
-.grading-box{background-color:#f7C074;width:240px; height:150px; overflow:auto; float:left;padding:5px;}
+.day{background-color:rgb(148,255,185);width:240px; height:150px; overflow:auto; float:left; margin:25px;}
+.reading-box{background-color:rgb(220, 208, 255);width:240px; height:150px; overflow:auto; float:left; margin:25px;}
+.prep-box{background-color:rgb(255,255,158);width:240px; height:150px; overflow:auto; float:left; margin:25px;}
+.lab-box{background-color:#B7E9F7;width:240px; height:150px; overflow:auto; float:left; margin:25px;}
+.grading-box{background-color:#f7C074;width:240px; height:150px; overflow:auto; float:left; margin:25px;}
 .day-box{border-color: rgb(0,0,128); overflow:auto;}
 .day-box.COMPLETED{background-image:url(Glazed-Donut.jpg); border: 2px solid rgb(0,0,128);}
 .day-box.CURRENT{background-image:url(White-Donut.jpg); border: 2px solid rgb(0,0,128);}
