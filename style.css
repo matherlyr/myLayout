@@ -8,10 +8,10 @@ body {
 .prep-box{background-color:rgb(255,255,158);width:240px; height:150px; overflow:auto; float:left;}
 .lab-box{background-color:#B7E9F7;width:240px; height:150px; overflow:auto; float:left;}
 .grading-box{background-color:#f7C074;width:240px; height:150px; overflow:auto; float:left;}
-.day-box{border-color: rgb(0,0,128);}
-.day-box.COMPLETED{background-image:url(Glazed-Donut.jpg);height:200px; border: 2px solid rgb(0,0,128);}
-.day-box.CURRENT{background-image:url(White-Donut.jpg);height:200px; border: 2px solid rgb(0,0,128);}
-.day-box.PREP{background-image:url(Chocolate-Donut.jpg);height:200px; border: 2px solid rgb(0,0,128);}
+.day-box{border-color: rgb(0,0,128); overflow:auto;}
+.day-box.COMPLETED{background-image:url(Glazed-Donut.jpg); border: 2px solid rgb(0,0,128);}
+.day-box.CURRENT{background-image:url(White-Donut.jpg); border: 2px solid rgb(0,0,128);}
+.day-box.PREP{background-image:url(Chocolate-Donut.jpg); border: 2px solid rgb(0,0,128);}
 .header{background-image: url(strawberry-donut.jpg);text-align:center;}
 .nav{text-align: center;
 background-color:rgb(255,186,210);
