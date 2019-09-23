@@ -16,7 +16,7 @@ body {
 .nav{text-align: center;
 background-color:rgb(255,186,210);
 background-repeat: no-repeat;}
-.sound{background-image:url(https://matherlyr.github.io/myLayout/audio.jpg); background-repeat: no-repeat;}
+.sound{background-image:url(https://matherlyr.github.io/myLayout/audio.jpg); background-repeat: no-repeat; height:40px; width:40px}
 h1{text-align: center;}
 .username{background-color:rgb(255,186,210);}
 div{border-radius: 25px;
