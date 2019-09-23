@@ -3,11 +3,11 @@ body {
   color:rgb(0,0,128);
   font-family:"Comic Sans MS", cursive, sans-serif;
 }
-.day{background-color:rgb(148,255,185);width:240px; height:150px; overflow:auto; float:left; margin:25px;}
-.reading-box{background-color:rgb(220, 208, 255);width:240px; height:150px; overflow:auto; float:left; margin:25px;}
-.prep-box{background-color:rgb(255,255,158);width:240px; height:150px; overflow:auto; float:left; margin:25px;}
-.lab-box{background-color:#B7E9F7;width:240px; height:150px; overflow:auto; float:left; margin:25px;}
-.grading-box{background-color:#f7C074;width:240px; height:150px; overflow:auto; float:left; margin:25px;}
+.day{background-color:rgb(148,255,185);width:240px; height:150px; overflow:auto; float:left; margin:5px;}
+.reading-box{background-color:rgb(220, 208, 255);width:240px; height:150px; overflow:auto; float:left; margin:5px;}
+.prep-box{background-color:rgb(255,255,158);width:240px; height:150px; overflow:auto; float:left; margin:5px;}
+.lab-box{background-color:#B7E9F7;width:240px; height:150px; overflow:auto; float:left; margin:5px;}
+.grading-box{background-color:#f7C074;width:240px; height:150px; overflow:auto; float:left; margin:5px;}
 .day-box{border-color: rgb(0,0,128); overflow:auto;}
 .day-box.COMPLETED{background-image:url(Glazed-Donut.jpg); border: 2px solid rgb(0,0,128);}
 .day-box.CURRENT{background-image:url(White-Donut.jpg); border: 2px solid rgb(0,0,128);}
@@ -16,7 +16,7 @@ body {
 .nav{text-align: center;
 background-color:rgb(255,186,210);
 background-repeat: no-repeat;}
-.sound{background-image:url (https://matherlyr.github.io/myLayout/audio.jpg);}
+.sound{background-image:url(https://matherlyr.github.io/myLayout/audio.jpg);}
 h1{text-align: center;}
 .username{background-color:rgb(255,186,210);}
 div{border-radius: 25px;
@@ -27,7 +27,6 @@ a div:hover {background-color: rgb(240, 108, 108);}
 img.person_image{width:100px;height:150px;}
 div:blank {display: none;}
 .special{border-width:none;}
-#nameSound13{background-image:url(audio.jpg);}
 table {border-collapse: collapse;}
 table, th, td {border: 1px solid rgb(0,0,128); background-color:#b5145f;}
 a.nav{
