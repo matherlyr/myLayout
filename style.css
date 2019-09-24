@@ -37,4 +37,5 @@ a.nav{
   background-color:#b5145f;
   color: rgb(0,0,128);
 }
-.partners{background-color:rgb(255,186,210);}
+.partners{background-color:rgb(255,186,210);width:200px; float:left;}
+.person_info{background-color:rgb(255,186,210);width:200px; float:left;}
