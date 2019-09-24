@@ -23,7 +23,7 @@ h1{text-align: center;}
 div{border-radius: 25px;
   padding: 10px;}
 a:hover {background-color: rgb(240, 108, 108);}
-a div:hover {background-color: rgb(240, 108, 108);}
+a .assignment_link:hover {background-color: rgb(240, 108, 108);}
 .reading a:hover {background-color: rgb(240, 108, 108);}
 img.person_image{width:100px;height:150px;}
 div:blank {display: none;}
