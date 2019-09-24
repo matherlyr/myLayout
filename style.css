@@ -12,7 +12,7 @@ body {
 .day-box.COMPLETED{background-image:url(Glazed-Donut.jpg); border: 2px solid rgb(0,0,128);}
 .day-box.CURRENT{background-image:url(White-Donut.jpg); border: 2px solid rgb(0,0,128);}
 .day-box.PREP{background-image:url(Chocolate-Donut.jpg); border: 2px solid rgb(0,0,128);}
-.header{background-image: url(strawberry-donut.jpg);text-align:center;}
+.header{background-image: url(strawberry-donut.jpg);text-align:center; overflow:auto;}
 .nav{text-align: center;
 background-color:rgb(255,186,210);
 background-repeat: no-repeat;}
