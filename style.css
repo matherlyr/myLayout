@@ -13,15 +13,14 @@ body {
 .day-box.CURRENT{background-image:url(White-Donut.jpg); border: 2px solid rgb(0,0,128);}
 .day-box.PREP{background-image:url(Chocolate-Donut.jpg); border: 2px solid rgb(0,0,128);}
 .header{background-image: url(strawberry-donut.jpg);text-align:center; overflow:auto;}
-.nav{text-align: center;
-background-color:rgb(255,186,210);
-background-repeat: no-repeat;}
+
+.nav{text-align: center; background-color:rgb(255,186,210);background-repeat: no-repeat;}
 .sound{background-image:url(https://matherlyr.github.io/myLayout/audio.jpg); background-repeat: no-repeat; height:40px; 
     width:40px; display: block; margin-left: auto; margin-right: auto; border-radius:15px;}
-h1{text-align: center;background-color: #AEBCDC; width:200px; display: block; margin-left: auto; margin-right: auto;}
+h1{text-align: center;background-color: #AEBCDC; width:200px; display: block; margin-left: auto; margin-right: auto;
+  border: 2px solid rgb(0,0,128); border-radius:20px; padding: 200px;}
 .username{background-color:rgb(255,186,210);}
-div{border-radius: 25px;
-  padding: 10px;}
+div{border-radius: 25px; padding: 10px;}
 a:hover {background-color: rgb(240, 108, 108);}
 a .assignment_link:hover {background-color: rgb(240, 108, 108);}
 .reading a:hover {background-color: rgb(240, 108, 108);}
@@ -29,13 +28,7 @@ img.person_image{width:100px;height:150px;}
 .special{border-width:none;}
 table {border-collapse: collapse;}
 table, th, td {border: 1px solid rgb(0,0,128); background-color:#b5145f;}
-a.nav{
-  border: 2px solid rgb(0,0,128);
-  border-radius:20px;
-  padding: 200px;
-  background-color:#b5145f;
-  color: rgb(0,0,128);
-}
+a.nav{border: 2px solid rgb(0,0,128);border-radius:20px;padding: 200px; background-color:#b5145f;color: rgb(0,0,128);}
 .partners{background-color:rgb(255,186,210);width:250px;}
 .person_info{background-color:rgb(255,186,210);width:150px; display: block;
   margin-left: auto;
