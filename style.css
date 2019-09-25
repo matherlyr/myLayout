@@ -21,8 +21,8 @@ body {
     width:40px; display: block; margin-left: auto; margin-right: auto; border-radius:15px;}
 h1{text-align: center;background-color: #9cd7ff; display: block; margin-left: auto; margin-right: auto;
   border: 2px solid rgb(0,0,128); border-radius:20px; padding: 10px;}
-h3{background-color: #E65A79;border: 2px solid rgb(0,0,128); border-radius:20px; padding: 10px; width:200px;}
-.grade{background-color: background-color:#FFEDAA;border: 2px solid rgb(0,0,128); border-radius:20px; padding: 10px; width:100px;}
+h3{background-color: #E65A79;border: 2px solid rgb(0,0,128); border-radius:20px; padding: 10px; width:100px;}
+.grade{background-color:#FFEDAA;border: 2px solid rgb(0,0,128); border-radius:20px; padding: 10px; width:50px;}
 div{border-radius: 25px; padding: 10px;}
 a:hover {background-color: rgb(255,105,119);}
 img.person_image{width:100px;height:150px;}
@@ -30,7 +30,8 @@ img.person_image{width:100px;height:150px;}
 table {border-collapse: collapse;}
 table, th, td {border: 1px solid rgb(0,0,128); background-color:rgb(156,215,255);}
 a.nav{border: 2px solid rgb(0,0,128);border-radius:20px;padding: 200px; background-color:#b5145f;color: rgb(0,0,128);}
-.partners{background-color:rgb(156,215,255); border:2px rgb (0,0,128); width:250px;}
+.partners{background-color:rgb(156,215,255); border:2px rgb (0,0,128); width:150px;display: block; 
+  margin-left: auto; margin-right: auto;}
 .person_info{background-color:rgb(156,215,255); border: 2px solid rgb(0,0,128); width:150px; display: block; 
   margin-left: auto; margin-right: auto;}
 svg{background-color:rgb(156,215,255); border: 2px solid rgb(0,0,128); display: block; margin-left: auto; margin-right: auto;}
