@@ -22,7 +22,7 @@ h1{text-align: center;background-color: #9cd7ff; width:200px; display: block; ma
   border: 2px solid rgb(0,0,128); border-radius:20px; padding: 10px;}
 .username{background-color:rgb(255,186,210);}
 div{border-radius: 25px; padding: 10px;}
-a:hover {background-color: rgb(240, 108, 108);}
+a:hover {background-color: rgb(255,105,119);}
 a .assignment_link:hover {background-color: rgb(240, 108, 108);}
 .reading a:hover {background-color: rgb(240, 108, 108);}
 img.person_image{width:100px;height:150px;}
