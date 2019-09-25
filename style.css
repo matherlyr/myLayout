@@ -12,13 +12,14 @@ body {
 .day-box.COMPLETED{background-image:url(Glazed-Donut.jpg); border: 2px solid rgb(0,0,128);}
 .day-box.CURRENT{background-image:url(White-Donut.jpg); border: 2px solid rgb(0,0,128);}
 .day-box.PREP{background-image:url(Chocolate-Donut.jpg); border: 2px solid rgb(0,0,128);}
-.header{background-image: url(awning - 1.jpg);text-align:center; overflow:auto; background-repeat: no-repeat;}
 
+
+.header{background-image: url(awning - 1.jpg);text-align:center; overflow:auto; background-repeat: no-repeat;}
 .nav{text-align: center; background-color:rgb(255,186,210);background-repeat: no-repeat;}
 .sound{background-image:url(https://matherlyr.github.io/myLayout/audio.jpg); background-repeat: no-repeat; height:40px; 
     width:40px; display: block; margin-left: auto; margin-right: auto; border-radius:15px;}
 h1{text-align: center;background-color: #AEBCDC; width:200px; display: block; margin-left: auto; margin-right: auto;
-  border: 2px solid rgb(0,0,128); border-radius:20px; padding: 200px;}
+  border: 2px solid rgb(0,0,128); border-radius:20px; padding: 10px;}
 .username{background-color:rgb(255,186,210);}
 div{border-radius: 25px; padding: 10px;}
 a:hover {background-color: rgb(240, 108, 108);}
