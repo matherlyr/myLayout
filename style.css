@@ -29,7 +29,7 @@ img.person_image{width:100px;height:150px;}
 .special{border-width:none;}
 table {border-collapse: collapse;margin-left: auto; margin-right: auto;}
 table, th, td {border: 1px solid rgb(0,0,128); background-color:rgb(156,215,255);}
-.nav a{border: 2px solid rgb(0,0,128);border-radius:20px;padding: 10px; margin 50px;background-color:#F46787;color: rgb(0,0,128);}
+.nav a{border: 2px solid rgb(0,0,128);border-radius:20px;padding: 10px; margin 300px;background-color:#F46787;color: rgb(0,0,128);}
 .partners{background-color:rgb(156,215,255); border:2px rgb (0,0,128); width:150px;display: block; 
   margin-left: auto; margin-right: auto;}
 .person_info{background-color:rgb(156,215,255); border: 2px solid rgb(0,0,128); width:150px; display: block; 
