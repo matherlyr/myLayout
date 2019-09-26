@@ -38,6 +38,6 @@ svg{background-color:rgb(156,215,255); border: 2px solid rgb(0,0,128); display: 
 form{background-color:#F46787; border: 2px solid rgb(0,0,128); display: block; margin-left: auto; 
   margin-right: auto; border-radius:20px;}
 #special2:before{content:"Welcome to the Computer Science Dounut Shop! Here's What's on the Menu Today:"; 
-  background-color: #9cd7ff; border: 2px solid rgb(0,0,128);}
+  background-color: #9cd7ff; border: 2px solid rgb(0,0,128);font-size: 30px;}
 
 
