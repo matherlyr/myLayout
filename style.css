@@ -37,7 +37,7 @@ table, th, td {border: 1px solid rgb(0,0,128); background-color:rgb(156,215,255)
 svg{background-color:rgb(156,215,255); border: 2px solid rgb(0,0,128); display: block; margin-left: auto; margin-right: auto;}
 form{background-color:#F46787; border: 2px solid rgb(0,0,128); display: block; margin-left: auto; 
   margin-right: auto; border-radius:20px;}
-#special2:before{content:"Welcome to the BOO Computer Science Dounut Shop! Here's What's on the Menu Today:"; 
+#special2:before{content:"Welcome to the shew-wee Computer Science Dounut Shop! Here's What's on the Menu Today:"; 
   background-color: #9cd7ff; border: 2px solid rgb(0,0,128);font-size: 30px; border-radius:20px; padding:10px;display:block;}
 label{text-align:left;}
 iframe{width:600px; height:600px;}
@@ -45,4 +45,4 @@ iframe{width:600px; height:600px;}
 .assignment-title{background-color: #E65A79;border: 2px solid; border-radius:20px;}
 .view_text{background-color:#FFEDAA;border: 2px solid; border-radius:20px; padding: 10px;}
 .graded-assignment{background-color:#FFEDAA;width:100px;border: 2px solid; border-radius:20px; padding: 10px;}
-div.nav a:nth-child(1):hover{background-color:#AAAAAA}
+div.nav a:nth-child(1):hover{background-image:url(https://matherlyr.github.io/myLayout/cinnamon-dount.jpg); background-repeat: no-repeat; }
