@@ -41,4 +41,5 @@ form{background-color:#F46787; border: 2px solid rgb(0,0,128); display: block; m
   background-color: #9cd7ff; border: 2px solid rgb(0,0,128);font-size: 30px; border-radius:20px; padding:10px;}
 label{text-align:left;}
 iframe{width:600px; height:600px;}
-
+.prompt{background-color: #E65A79;border: 2px solid rgb(0,0,128); border-radius:20px; padding: 10px;}
+.assignment-title{background-color: #E65A79;border: 2px solid rgb(0,0,128); border-radius:20px;}
