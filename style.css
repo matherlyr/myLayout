@@ -15,8 +15,7 @@ body {
 .day-box.PREP{background-image:url(Chocolate-Donut.jpg); border: 2px solid rgb(0,0,128);}
 
 
-.header{background-image: url(https://matherlyr.github.io/myLayout/awning - 1.jpg); overflow:auto; 
-  background-repeat: no-repeat;}
+.header{background-image: url(https://matherlyr.github.io/myLayout/awning - 1.jpg);background-repeat: no-repeat;}
 .nav{ background-color:rgb(156,215,255); border: 2px solid rgb(0,0,128);}
 .sound{background-image:url(https://matherlyr.github.io/myLayout/audio.jpg); background-repeat: no-repeat; height:40px; 
     width:40px; display: block; margin-left: auto; margin-right: auto; border-radius:15px;}
