@@ -2,6 +2,7 @@ body {
   background-image: url(https://matherlyr.github.io/myLayout/newsprink.jpg);
   color:rgb(0,0,128);
   font-family:"Comic Sans MS", cursive, sans-serif;
+  text-align:center;
 }
 .day{background-color:rgb(156,255,197);width:240px; height:150px; overflow:auto; float:left; margin:5px;}
 .reading-box{background-color:rgb(156,165,255);width:240px; height:150px; overflow:auto; float:left; margin:5px;}
