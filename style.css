@@ -26,7 +26,6 @@ h3{background-color: #E65A79;border: 2px solid rgb(0,0,128); border-radius:20px;
 div{border-radius: 25px; padding: 10px;}
 a:hover {background-color: rgb(255,105,119);}
 img.person_image{width:100px;height:150px;}
-img.person_image:hover{background-image: url('image/circle.PNG');background-repeat: no-repeat;}
 .special{border-width:none;}
 table {border-collapse: collapse;margin-left: auto; margin-right: auto;}
 table, th, td {border: 1px solid rgb(0,0,128); background-color:rgb(156,215,255);}
