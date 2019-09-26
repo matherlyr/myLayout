@@ -11,13 +11,13 @@ body {
 .lab-box{background-color:rgb(156,255,246);width:240px; height:150px; overflow:auto; float:left; margin:5px;}
 .grading-box{background-color:rgb(255,197,156);width:240px; height:150px; overflow:auto; float:left; margin:5px;}
 .day-box{overflow:auto;}
-.day-box.COMPLETED{background-image:url(Glazed-Donut.jpg); border: 2px solid rgb(0,0,128);}
-.day-box.CURRENT{background-image:url(White-Donut.jpg); border: 2px solid rgb(0,0,128);}
-.day-box.PREP{background-image:url(Chocolate-Donut.jpg); border: 2px solid rgb(0,0,128);}
+.day-box.COMPLETED{background-image:url(Glazed-Donut.jpg); border: 2px solid;}
+.day-box.CURRENT{background-image:url(White-Donut.jpg); border: 2px solid;}
+.day-box.PREP{background-image:url(Chocolate-Donut.jpg); border: 2px solid;}
 
 
 .header{background-image: url(https://matherlyr.github.io/myLayout/awning - 1.jpg);background-repeat: no-repeat;}
-.nav{ background-color:rgb(156,215,255); border: 2px solid rgb(0,0,128);}
+.nav{background-color:rgb(156,215,255); border: 2px solid;}
 .sound{background-image:url(https://matherlyr.github.io/myLayout/audio.jpg); background-repeat: no-repeat; height:40px; 
     width:40px; display: block; margin-left: auto; margin-right: auto; border-radius:15px;}
 h1{background-color: #9cd7ff; display: block; margin-left: auto; margin-right: auto;
