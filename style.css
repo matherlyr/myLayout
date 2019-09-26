@@ -8,7 +8,7 @@ body {
 .day{background-color:rgb(156,255,197); border: 2px solid; width:240px; height:150px; overflow:auto; float:left; margin:5px;}
 .reading-box{background-color:rgb(156,165,255); border: 2px solid; width:240px; height:150px; overflow:auto; float:left; margin:5px;}
 .prep-box{background-color:rgb(255,156,215); border: 2px solid; width:240px; height:150px; overflow:auto; float:left; margin:5px;}
-.lab-box{background-color:rgb(156,255,246); border: 2px solid; width:240px; height:150px; overflow:auto; float:left; margin:5px;}
+.lab-box{background-color:rgb(156,255,255); border: 2px solid; width:240px; height:150px; overflow:auto; float:left; margin:5px;}
 .grading-box{background-color:rgb(255,197,156); border: 2px solid; width:240px; height:150px; overflow:auto; float:left; margin:5px;}
 .day-box{border:2px solid; overflow:auto;}
 .day-box.COMPLETED{background-image:url(Glazed-Donut.jpg);}
