@@ -19,7 +19,7 @@ body {
 .nav{ background-color:rgb(156,215,255); border: 2px solid rgb(0,0,128);}
 .sound{background-image:url(https://matherlyr.github.io/myLayout/audio.jpg); background-repeat: no-repeat; height:40px; 
     width:40px; display: block; margin-left: auto; margin-right: auto; border-radius:15px;}
-h1{text-align: center;background-color: #9cd7ff; display: block; margin-left: auto; margin-right: auto;
+h1{background-color: #9cd7ff; display: block; margin-left: auto; margin-right: auto;
   border: 2px solid rgb(0,0,128); border-radius:20px; padding: 10px;}
 h3{background-color: #E65A79;border: 2px solid rgb(0,0,128); border-radius:20px; padding: 10px; width:60px;}
 .grade{background-color:#FFEDAA;border: 2px solid rgb(0,0,128); border-radius:20px; padding: 10px; width:25px;}
@@ -37,6 +37,7 @@ a.nav{border: 2px solid rgb(0,0,128);border-radius:20px;padding: 200px; backgrou
 svg{background-color:rgb(156,215,255); border: 2px solid rgb(0,0,128); display: block; margin-left: auto; margin-right: auto;}
 form{background-color:#F46787; border: 2px solid rgb(0,0,128); display: block; margin-left: auto; 
   margin-right: auto; border-radius:20px;}
-#special2:before{content:"Welcome to the Computer Science Dounut Shop! Here's What's on the Menu Today:"}
+#special2:before{content:"Welcome to the Computer Science Dounut Shop! Here's What's on the Menu Today:"; 
+  background-color: #9cd7ff; border: 2px solid rgb(0,0,128);}
 
 
