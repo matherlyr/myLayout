@@ -1,6 +1,7 @@
 body {
   background-image: url(https://matherlyr.github.io/myLayout/newsprink.jpg);
   color:rgb(0,0,128);
+  border-color:rgb(0,0,128);
   font-family:"Comic Sans MS", cursive, sans-serif;
   text-align:center;
 }
@@ -9,7 +10,7 @@ body {
 .prep-box{background-color:rgb(255,156,215);width:240px; height:150px; overflow:auto; float:left; margin:5px;}
 .lab-box{background-color:rgb(156,255,246);width:240px; height:150px; overflow:auto; float:left; margin:5px;}
 .grading-box{background-color:rgb(255,197,156);width:240px; height:150px; overflow:auto; float:left; margin:5px;}
-.day-box{border-color: rgb(0,0,128); overflow:auto;}
+.day-box{overflow:auto;}
 .day-box.COMPLETED{background-image:url(Glazed-Donut.jpg); border: 2px solid rgb(0,0,128);}
 .day-box.CURRENT{background-image:url(White-Donut.jpg); border: 2px solid rgb(0,0,128);}
 .day-box.PREP{background-image:url(Chocolate-Donut.jpg); border: 2px solid rgb(0,0,128);}
